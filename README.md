@@ -95,10 +95,4 @@ Visit **`http://localhost:5173`** to access the dashboard.
 
 ---
 
-## 🛡 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> *Built with ☕️ and 💻 by Edwin Kim.*
+> *Built by Edwin Kim.*
