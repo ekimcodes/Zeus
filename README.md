@@ -1,4 +1,4 @@
-# ⚡️ PROJECT ZEUS
+# ⚡️ PROJECT ZEUS (Lattice Clone)
 
 > **Real-Time Airspace Surveillance & Geofencing Engine**
 
