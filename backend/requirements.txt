@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+redis
+aiohttp
+s2sphere
+pydantic
+python-dotenv
+websockets
+numpy
+requests
