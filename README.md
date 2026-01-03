@@ -2,7 +2,6 @@
 
 > **Real-Time Airspace Surveillance & Geofencing Engine**
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688.svg)
 ![React](https://img.shields.io/badge/React-18-61dafb.svg)
