@@ -10,7 +10,7 @@
 
 ---
 
-## 📡 Overview
+## Overview
 
 **Zeus** is a high-performance, defense-grade airspace monitoring system designed to track thousands of aircraft in real-time. Inspired by advanced defense surveillance platforms, Zeus provides a "single pane of glass" view of the skies, instantly detecting geofence violations and identifying potential threats.
 
@@ -18,18 +18,18 @@ Built with a modern event-driven architecture, it processes live ADS-B data from
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-*   **🌐 Real-Time Global Tracking**: Ingests high-frequency state vectors for 5,000+ simultaneous aircraft.
-*   **🛡 Advanced Geofencing**: Utilizes **S2 Spatial Indexing** to detect airspace violations with point-in-polygon precision.
-*   **⚡️ Event-Driven Pipeline**: Low-latency data flow via **Redis Pub/Sub** and **WebSockets**.
-*   **🗺 WebGL Visualization**: **Deck.gl** & **Mapbox** integration for rendering massive datasets with 60FPS fluid animations.
-*   **🚨 Critical Alerts**: Instant visual and log-based notification system for "No-Fly Zone" incursions.
-*   **🌑 Defense Aesthetic**: Custom dark-mode UI with HUD elements for situational awareness.
+*   ** Real-Time Global Tracking**: Ingests high-frequency state vectors for 5,000+ simultaneous aircraft.
+*   ** Advanced Geofencing**: Utilizes **S2 Spatial Indexing** to detect airspace violations with point-in-polygon precision.
+*   ** Event-Driven Pipeline**: Low-latency data flow via **Redis Pub/Sub** and **WebSockets**.
+*   ** WebGL Visualization**: **Deck.gl** & **Mapbox** integration for rendering massive datasets with 60FPS fluid animations.
+*   ** Critical Alerts**: Instant visual and log-based notification system for "No-Fly Zone" incursions.
+*   ** Defense Aesthetic**: Custom dark-mode UI with HUD elements for situational awareness.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend (The Core)
 *   **Python 3.11**: High-performance async runtime.
@@ -47,7 +47,7 @@ Built with a modern event-driven architecture, it processes live ADS-B data from
 
 ---
 
-## 📸 Architecture
+## Architecture
 
 ```mermaid
 graph LR
